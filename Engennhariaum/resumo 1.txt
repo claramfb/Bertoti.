@@ -1,0 +1,3 @@
+engenharia de software não é sinonimo de programação asssim como distância não é velocidade como citado no texto
+por tanto considera-se que por mais que a engenharia de software ande ao lado da programação elas são coisas
+distintas, já que ela faz a parte base e por trás da programação
